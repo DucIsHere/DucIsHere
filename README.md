@@ -14,19 +14,17 @@ Ho Chi Minh City, Vietnam 🇻🇳
 
 ## About Me
 
-Passionate fullstack developer specializing technologies and workflow automation. I build decentralized applications and create intelligent automation systems that transform business processes. My work spans from smart contract development to complex n8n workflows that handle thousands of operations daily.
+Developer Mod/Datapack Minecraft 
+The Student In Vietnamese
 
-**Current Focus:** Modder for Minecraft Java and shader
+**Current Focus:** Modder For Minecraft Java And Shader
 
-**Philosophy:** *"No money no problem, no suppprt big 
+**Philosophy:** *"No Money No Problem, No Suppprt Big Problem
 
 ---
 
 **📱 Social Media**
 
-Automated content distrionbution to Facebook and Tiktok. Scheduled posting with engagement tracking and analytics.
+Automated Content Distrionbution To Facebook And Tiktok. Scheduled Posting With Engagement Tracking And Analytics.
 
-</td>
-</tr>
-</table>
 
