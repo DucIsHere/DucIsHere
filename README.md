@@ -30,8 +30,8 @@ Passionate fullstack developer specializing technologies and workflow automation
 
 **Languages & Frameworks**
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat-square&logo=typescript)
+![Java](https://img.icons8.com/?size=512&id=13679&format=png)
+![Python](https://img.icons8.com/?size=512&id=13441&format=png)
 ![React](https://img.shields.io/badge/-React-000?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat-square&logo=node.js)
