@@ -4,7 +4,7 @@
 
 **Shader Developer • Mod Minecraft**
 
-Ho Chi Minh City, Vietnam 🇻🇳
+ Vietnam 🇻🇳
 
 [![Email](mailto:liulangzhe209@gmail.com)](mailto:liulangzhe209@gmail.com)
 
@@ -15,7 +15,8 @@ Ho Chi Minh City, Vietnam 🇻🇳
 ## About Me
 
 Developer Mod/Datapack Minecraft 
-The Student In Vietnamese
+
+I Am A Student In Vietnamese
 
 **Current Focus:** Modder For Minecraft Java And Shader
 
@@ -27,4 +28,5 @@ The Student In Vietnamese
 
 Automated Content Distrionbution To Facebook And Tiktok. Scheduled Posting With Engagement Tracking And Analytics.
 
+[![Tiktok](https://tiktok.com/liulang.zh3)]
 
