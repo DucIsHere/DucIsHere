@@ -28,5 +28,3 @@ I Am A Student In Vietnamese
 
 Automated Content Distrionbution To Facebook And Tiktok. Scheduled Posting With Engagement Tracking And Analytics.
 
-[![Tiktok](https://tiktok.com/liulang.zh3)]
-
