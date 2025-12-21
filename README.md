@@ -8,23 +8,15 @@
 
 [![Email](mailto:liulangzhe209@gmail.com)](mailto:liulangzhe209@gmail.com)
 
----
+### 🛠️ Technologies & Skills, Front-End
+
+<img src="https://skillicons.dev/icons?i=js,html,css,java,gradle,python,cpp" alt="Tech Stack Icon" />
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,discord,gnail" alt="Tech Stack Icon" />
+ 
+### 🌟 Ready for New Challenges
+
+<img align="center" src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg">
+
 
 </div>
-
-## About Me
-
-Developer Mod/Datapack Minecraft 
-
-I Am A Student In Vietnamese
-
-**Current Focus:** Modder For Minecraft Java And Shader
-
-**Philosophy:** *"No Money No Problem, No Suppprt Big Problem
-
----
-
-**📱 Social Media**
-
-Automated Content Distrionbution To Facebook And Tiktok. Scheduled Posting With Engagement Tracking And Analytics.
-
